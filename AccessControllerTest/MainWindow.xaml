@@ -14,8 +14,8 @@
                 Margin="335,175,0,0" 
                 VerticalAlignment="Top" 
                 Width="75"/>
-        <TextBlock Name="outputTxtBlc"
-                   Text="press Button to connect"
+        <TextBox Name="outputTxtBlc"
+                   Text=""
                    HorizontalAlignment="Left" 
                    Margin="345,220,0,0" 
                    TextWrapping="Wrap" 
